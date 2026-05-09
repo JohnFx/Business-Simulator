@@ -1,0 +1,4 @@
+Please create and push files for a web app using jQUERY UI for the front end and AWS RDS MySQL on the backend. The app will be hosted on AWS using Lambda for the backend. 
+The app needs to allow students to create and update a profile, and an administrator to manage profiles.
+
+The application will enable students to select a business type to simulate, set various properties and adjust them once per day, then see the results in financial statements based on their decisions.
